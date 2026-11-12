@@ -1,0 +1,11 @@
+earthaccess
+xarray
+earthengine-api
+geemap
+ipyleaflet
+ipywidgets
+pandas
+numpy
+matplotlib
+scipy
+rasterio
